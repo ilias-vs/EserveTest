@@ -1,0 +1,6 @@
+@EserveTest_HostAddress = http://localhost:5195
+
+GET {{EserveTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
